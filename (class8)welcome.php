@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Authentication (after login) -->
     <?php
         session_start();
     ?>

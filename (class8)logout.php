@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- logout page that trigger logout -->
     <?php
         session_start();
         session_unset();

@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Authentication (Before login page) -->
     <?php
         session_start();
         $_SESSION['get_user_name'] = "zaryab";
